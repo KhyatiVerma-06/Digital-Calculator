@@ -1,0 +1,1 @@
+"A responsive Digital Calculator built with HTML, CSS, and JavaScript, designed to handle essential arithmetic tasks quickly and efficiently. Created as part of the @CodeSoft internship tasks." #CodeSoft #HTML #CSS #JavaScript #Calculator #WebDevelopment
